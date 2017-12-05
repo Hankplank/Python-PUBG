@@ -7,4 +7,5 @@ Example uses:
    api = pubgapi.PUBGAPI(00000000000000, '2017-pre6') 
    player = PLAYER(player_name, player_region, player_mode, fpp)
    player = PLAYER('almostfamous', 'na', 'squad', 'tpp')
-   player = PLAYER('almostfamous', 'na', 'squad', 'fpp')```
+   player = PLAYER('almostfamous', 'na', 'squad', 'fpp')
+   ```
